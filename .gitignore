@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+*.Rout
+*.log
+*~
+.Rprofile
+.httr-oauth
+.Renviron
+.Ruserdata
+/renv/
+/packrat/
+/data/ # Se hai dati grezzi molto grandi che non vuoi versionare
+/output/ # Se hai output generati che non devono essere tracciati
+/cache/
